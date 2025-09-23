@@ -1,7 +1,7 @@
 import { About } from "@/components/About";
-import { ContactForm } from "@/components/ContactForm";
-import { Footer } from "@/components/Footer";
-import { Header } from "@/components/Header";
+import { ContactForm } from "@/components/ContactForm"; // Corrigido
+import { Footer } from "@/components/Footer";       // Corrigido
+import { Header } from "@/components/Header";       // Corrigido
 import { Hero } from "@/components/Hero";
 import { Projects } from "@/components/Projects";
 import { Skills } from "@/components/Skills";
