@@ -11,8 +11,8 @@ const fontSans = FontSans({
 });
 
 export const metadata: Metadata = {
-  title: "Seu Nome - Desenvolvedor de Software",
-  description: "Portfólio pessoal de [Seu Nome], mostrando projetos e habilidades em desenvolvimento web.",
+  title: "Rafael Barros - Desenvolvedor de Software e Analista de Dados",
+  description: "Portfólio pessoal de Rafael Barros, mostrando projetos e habilidades em desenvolvimento web.",
 };
 
 export default function RootLayout({
