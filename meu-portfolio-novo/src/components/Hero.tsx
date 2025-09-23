@@ -13,7 +13,7 @@ export const Hero = () => {
           transition={{ duration: 0.5 }}
         >
           <h1 className="text-4xl sm:text-5xl md:text-6xl font-bold tracking-tighter mb-4">
-            Olá, eu sou [Seu Nome]
+            Olá, eu sou Rafael Barros
           </h1>
           <p className="max-w-2xl mx-auto text-lg sm:text-xl text-muted-foreground mb-8">
             Desenvolvedor de Software apaixonado por criar soluções inovadoras e experiências de usuário incríveis.
